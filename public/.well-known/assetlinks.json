@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.contributionspayment.CONTRIBUTIONS",
+            "sha256_cert_fingerprints": [
+                "0C:22:7C:FD:0D:30:B2:C8:66:5F:64:5A:67:D1:B4:CD:91:36:35:35:D2:EA:DA:CB:DA:92:04:68:DF:BB:D9:6C",
+                "61:E8:3E:A9:40:7C:D0:59:23:3B:48:1F:0C:E2:61:82:D4:10:8D:BD:C7:E4:55:1B:6E:AC:42:AE:FD:A1:10:74"
+            ]
+        }
+    }
+]
